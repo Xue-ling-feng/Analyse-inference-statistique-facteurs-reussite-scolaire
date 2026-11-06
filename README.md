@@ -3,8 +3,10 @@ Projet d'analyse statistique en Python, étudiant les facteurs liés aux résult
 Jeu de données simulé.
 
 ## 📂 Contenu
-- `data/student_exam_performance.csv` : jeu de données brut
-- `DM_ZHOU_Mengzhe_version20.ipynb` : notebook complet (nettoyage, statistiques descriptives, tests d'hypothèses, graphiques et interprétations)
+- `data/student_exam_performance.csv` : jeu de données
+- `DM_ZHOU_Mengzhe_version20.ipynb` : notebook complet de l'analyse
+- `DM_ZHOU_Mengzhe_version20.pdf` : export PDF du notebook pour lecture rapide
+
 
 ## 🧰 Dépendances
 ```bash
